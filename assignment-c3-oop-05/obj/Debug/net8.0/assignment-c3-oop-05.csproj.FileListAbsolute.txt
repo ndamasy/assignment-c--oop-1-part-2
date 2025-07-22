@@ -1,0 +1,14 @@
+F:\nemo-art\back end\assignments\assignment-c3-oop-05\obj\Debug\net8.0\assignment-c3-oop-05.GeneratedMSBuildEditorConfig.editorconfig
+F:\nemo-art\back end\assignments\assignment-c3-oop-05\obj\Debug\net8.0\assignment-c3-oop-05.AssemblyInfoInputs.cache
+F:\nemo-art\back end\assignments\assignment-c3-oop-05\obj\Debug\net8.0\assignment-c3-oop-05.AssemblyInfo.cs
+F:\nemo-art\back end\assignments\assignment-c3-oop-05\obj\Debug\net8.0\assignment-c3-oop-05.csproj.CoreCompileInputs.cache
+F:\nemo-art\back end\assignments\assignment-c3-oop-05\bin\Debug\net8.0\assignment-c3-oop-05.exe
+F:\nemo-art\back end\assignments\assignment-c3-oop-05\bin\Debug\net8.0\assignment-c3-oop-05.deps.json
+F:\nemo-art\back end\assignments\assignment-c3-oop-05\bin\Debug\net8.0\assignment-c3-oop-05.runtimeconfig.json
+F:\nemo-art\back end\assignments\assignment-c3-oop-05\bin\Debug\net8.0\assignment-c3-oop-05.dll
+F:\nemo-art\back end\assignments\assignment-c3-oop-05\bin\Debug\net8.0\assignment-c3-oop-05.pdb
+F:\nemo-art\back end\assignments\assignment-c3-oop-05\obj\Debug\net8.0\assignment-c3-oop-05.dll
+F:\nemo-art\back end\assignments\assignment-c3-oop-05\obj\Debug\net8.0\refint\assignment-c3-oop-05.dll
+F:\nemo-art\back end\assignments\assignment-c3-oop-05\obj\Debug\net8.0\assignment-c3-oop-05.pdb
+F:\nemo-art\back end\assignments\assignment-c3-oop-05\obj\Debug\net8.0\assignment-c3-oop-05.genruntimeconfig.cache
+F:\nemo-art\back end\assignments\assignment-c3-oop-05\obj\Debug\net8.0\ref\assignment-c3-oop-05.dll
